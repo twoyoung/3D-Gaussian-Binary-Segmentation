@@ -1,6 +1,13 @@
 # 3DGS-binary-segmentation
 
-## Run the demo
+This is the first part of a project that aims to count the number of fruits on trees based on 3D Gaussian model. It achieves the function of binary segmentation of the target objects from the surrounding enviornment point cloud.
+
+Segmentation effect on a Christmas tree:
+![demo video](https://huggingface.co/datasets/twoyoung/christmasTree/resolve/main/demo.gif)
+
+The paper is [here](https://huggingface.co/datasets/twoyoung/christmasTree/resolve/main/paper_2D_guided_3D_gaussian-based_binary_segmentation.pdf).
+
+## Run the demo code
 Run the demo with prepared dataset:
 
     /colab/3DGS_binary_segmentation.ipnyb
