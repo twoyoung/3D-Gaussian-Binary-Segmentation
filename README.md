@@ -8,8 +8,6 @@ Segmentation effect on a Christmas tree:
 
 ![demo video](https://huggingface.co/datasets/twoyoung/christmasTree/resolve/main/demo.gif)
 
-The paper is [here](https://huggingface.co/datasets/twoyoung/christmasTree/resolve/main/paper_2D_guided_3D_gaussian-based_binary_segmentation.pdf).
-
 ## Run the demo code
 Run the demo with prepared dataset:
 
