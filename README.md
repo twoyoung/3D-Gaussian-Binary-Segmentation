@@ -1,6 +1,8 @@
 # 3DGS-binary-segmentation
 
-This is the first part of a project that aims to count the number of fruits on trees based on 3D Gaussian model. It achieves the function of binary segmentation of the target objects from the surrounding enviornment point cloud. The underlying logic is explained in this [paper](https://huggingface.co/datasets/twoyoung/3DGS-binary-segmentation/resolve/main/paper_2D_guided_3D_gaussian-based_binary_segmentation.pdf)
+This is the first part of a project that aims to count the number of fruits on trees based on 3D Gaussian model. It achieves the function of binary segmentation of the target objects from the surrounding enviornment point cloud. 
+
+The underlying logic is explained in this [paper](https://huggingface.co/datasets/twoyoung/3DGS-binary-segmentation/resolve/main/paper_2D_guided_3D_gaussian-based_binary_segmentation.pdf).
 
 Segmentation effect on a Christmas tree:
 
